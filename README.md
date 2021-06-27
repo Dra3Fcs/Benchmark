@@ -18,6 +18,4 @@ Nous avons utilisé des logiciels que vous retrouvez ci-dessous. Ils nous ont pe
 
 **[CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/)**
 
-<hr>
-
-<details><summary>Analyse et Résultats</summary>
+<details><summary>Findings and Analysis</summary>

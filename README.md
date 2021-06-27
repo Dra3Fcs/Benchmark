@@ -10,4 +10,4 @@ Avec l'équipe Nexus, nous avons fait quelques **benchmarks** pour montrer la di
 **[CapeFrameX](https://www.capframex.com/)**
   
 Nous avons utilisé le logiciel **CapeFrameX** pour réaliser nos `benchmarks`, pour observer et tirer une conclusion finale.
-
+<hr>

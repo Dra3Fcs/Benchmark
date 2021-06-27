@@ -14,4 +14,8 @@ Nous avons utilisé des logiciels que vous retrouvez ci-dessous. Ils nous ont pe
 
 **[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)**
 
+[![Header](https://store-images.s-microsoft.com/image/apps.28465.13510798887699839.f53826c5-f1b2-4116-8752-c2b96364d5da.d2205bd9-cb87-4564-bdfd-4f11bc99bd35 "Header")](https://store-images.s-microsoft.com/image/apps.28465.13510798887699839.f53826c5-f1b2-4116-8752-c2b96364d5da.d2205bd9-cb87-4564-bdfd-4f11bc99bd35)
+
+**[CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/)**
+
 <hr>

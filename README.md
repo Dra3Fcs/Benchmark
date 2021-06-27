@@ -21,6 +21,10 @@ Nous avons utilisé des logiciels que vous retrouvez ci-dessous. Ils nous ont pe
 [![Header](https://www.01net.com/images/logiciel/131843.gif "Header")](https://www.01net.com/images/logiciel/131843.gif)
  
 **[LatencyMon](https://www.resplendence.com/latencymon)**
+  
+[![Header](https://pic.clubic.com/v1/images/1499304/raw "Header")](https://www.01net.com/images/logiciel/131843.gif)  
+
+**[7-Zip](https://www.7-zip.org/download.html)**  
 </details>
 
 <details><summary>Analyse et Résultat</summary>

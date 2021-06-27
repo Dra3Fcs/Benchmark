@@ -1,7 +1,7 @@
 # Avant/Après - Benchmark 
 Avec l'équipe Nexus, nous avons fait quelques **benchmarks** pour montrer la différence entre un `Windows non-optimisé` (Bios/Drivers/Pilotes/Windows) et un `Windows optimisé` (Bios/Drivers/Pilotes/Windows).
 
-<details><summary>Analyse et Résultats</summary>
+<details><summary>Outils et Logiciels</summary>
 <hr>
 
 Nous avons utilisé des logiciels que vous retrouvez ci-dessous. Ils nous ont permi de réaliser nos `benchmarks`, pour observer et tirer une conclusion finale.
@@ -19,3 +19,5 @@ Nous avons utilisé des logiciels que vous retrouvez ci-dessous. Ils nous ont pe
 **[CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/)**
 
 <hr>
+
+<details><summary>Analyse et Résultats</summary>

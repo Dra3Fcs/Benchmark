@@ -41,6 +41,6 @@ Voici la `configuration` utlisé pendant le benchmark :
 - Gigabyte P750W GM
 - 5 Ventilateurs ARTIC
 - ARCTIC Freezer 34 eSports DUO```
-
 </details>
+
 <details><summary>Analyse et Résultat</summary>

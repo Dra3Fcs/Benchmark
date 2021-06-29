@@ -52,7 +52,7 @@ Voici la `configuration` utlisé pendant le benchmark :
   
  [![Header](https://i.imgur.com/YDYjZON.png  "Header")](https://i.imgur.com/YDYjZON.png)
  [![Header](https://i.imgur.com/ujxAiy9.png  "Header")](https://i.imgur.com/ujxAiy9.png)  
- [![Header](blob:https://imgur.com/45a710e7-80c9-4732-8520-ae13e1fa8ce8  "Header")](blob:https://imgur.com/45a710e7-80c9-4732-8520-ae13e1fa8ce8)  
+ [![Header](https://i.imgur.com/873OPab.png  "Header")](https://i.imgur.com/873OPab.png)  
 </details>
 
 <details><summary>Analyse et Résultat</summary>

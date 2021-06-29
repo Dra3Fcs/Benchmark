@@ -47,12 +47,25 @@ Voici la `configuration` utlisé pendant le benchmark :
 ```
 <hr>
   
- Voici les `paramètres/settings` sur les différents jeux (RS6, CSGO, Fortnite)
+ Voici les `paramètres/settings` sur les différents jeux (R6, CSGO, Fortnite)
   <br>
-  
+ 
+ `Tom Clancy's Rainbow Six: Siege`
  [![Header](https://i.imgur.com/YDYjZON.png  "Header")](https://i.imgur.com/YDYjZON.png)
  [![Header](https://i.imgur.com/ujxAiy9.png  "Header")](https://i.imgur.com/ujxAiy9.png)  
- [![Header](https://i.imgur.com/873OPab.png  "Header")](https://i.imgur.com/873OPab.png)  
+ [![Header](https://i.imgur.com/873OPab.png  "Header")](https://i.imgur.com/873OPab.png) 
+ <br>
+
+ `Counter-Strike: Global Offensive`
+ [![Header](https://i.imgur.com/F0uSx2F.png  "Header")](https://i.imgur.com/F0uSx2F.png)
+ [![Header](https://i.imgur.com/wmoxwJC.png  "Header")](https://i.imgur.com/wmoxwJC.png)
+ [![Header](https://i.imgur.com/6ZNtplC.png  "Header")](https://i.imgur.com/6ZNtplC.png)
+ <br>
+
+ `Fortnite`
+[![Header](https://i.imgur.com/nGsFsOD.png  "Header")](https://i.imgur.com/nGsFsOD.png)
+[![Header](https://i.imgur.com/6SVeVlc.png  "Header")](https://i.imgur.com/6SVeVlc.png)
+ 
 </details>
 
 <details><summary>Analyse et Résultat</summary>

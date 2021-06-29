@@ -43,6 +43,12 @@ Voici la `configuration` utlisé pendant le benchmark :
 - 5 Ventilateurs ARTIC
 - ARCTIC Freezer 34 eSports DUO
 ```
+<hr>
+  
+ Voici les `paramètres/settings` sur les différents jeux (Fortnite, RS6, CSGO)
+ [![Header](blob:https://imgur.com/64f1f954-5334-4303-8729-36758b45bd6c  "Header")](blob:https://imgur.com/64f1f954-5334-4303-8729-36758b45bd6c)
+ [![Header](blob:https://imgur.com/23d0072f-5dfc-44cf-a703-619b4e04f97a  "Header")](blob:https://imgur.com/64f1f954-5334-4303-8729-36758b45bd6c)  
+ [![Header](blob:https://imgur.com/45a710e7-80c9-4732-8520-ae13e1fa8ce8  "Header")](blob:https://imgur.com/45a710e7-80c9-4732-8520-ae13e1fa8ce8)  
 </details>
 
 <details><summary>Analyse et Résultat</summary>

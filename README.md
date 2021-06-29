@@ -40,7 +40,8 @@ Voici la `configuration` utlisé pendant le benchmark :
 - Fractal Design Meshify C
 - Gigabyte P750W GM
 - 5 Ventilateurs ARTIC
-- ARCTIC Freezer 34 eSports DUO```
+- ARCTIC Freezer 34 eSports DUO
+```
 </details>
 
 <details><summary>Analyse et Résultat</summary>

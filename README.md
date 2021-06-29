@@ -46,9 +46,10 @@ Voici la `configuration` utlisé pendant le benchmark :
 - ARCTIC Freezer 34 eSports DUO
 ```
 <hr>
-<br>
   
- Voici les `paramètres/settings` sur les différents jeux (Fortnite, RS6, CSGO)
+ Voici les `paramètres/settings` sur les différents jeux (RS6, CSGO, Fortnite)
+  <br>
+  
  [![Header](https://i.imgur.com/YDYjZON.png  "Header")](https://i.imgur.com/YDYjZON.png)
  [![Header](https://i.imgur.com/ujxAiy9.png  "Header")](https://i.imgur.com/ujxAiy9.png)  
  [![Header](blob:https://imgur.com/45a710e7-80c9-4732-8520-ae13e1fa8ce8  "Header")](blob:https://imgur.com/45a710e7-80c9-4732-8520-ae13e1fa8ce8)  

@@ -29,7 +29,7 @@ Nous avons utilisé des logiciels que vous retrouvez ci-dessous. Ils nous ont pe
 
 <details><summary>Settings et Configuration</summary> 
  <hr>
-  
+ <br>
 Voici la `configuration` utlisé pendant le benchmark :
  ``` - I5 10600K (non overclocké dans toutes les scénarios)
 - MSI Z490 Tomahawk (Bios Version 7C80v18)
@@ -44,7 +44,7 @@ Voici la `configuration` utlisé pendant le benchmark :
 - ARCTIC Freezer 34 eSports DUO
 ```
 <hr>
-  
+<br>
  Voici les `paramètres/settings` sur les différents jeux (Fortnite, RS6, CSGO)
  [![Header](https://i.imgur.com/YDYjZON.png  "Header")](https://i.imgur.com/YDYjZON.png)
  [![Header](https://i.imgur.com/ujxAiy9.png  "Header")](https://i.imgur.com/ujxAiy9.png)  

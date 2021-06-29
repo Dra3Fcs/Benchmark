@@ -33,7 +33,8 @@ Nous avons utilisé des logiciels que vous retrouvez ci-dessous. Ils nous ont pe
 Voici la `configuration` utlisé pendant le benchmark :
 <br> 
   
- ``` - I5 10600K (non overclocké dans toutes les scénarios)
+ ``` 
+- I5 10600K (non overclocké dans toutes les scénarios)
 - MSI Z490 Tomahawk (Bios Version 7C80v18)
 - Crucial Ballistix 2x8Go 3600Mhz (XMP activé dans tout les scénarios sauf le "Bios❌")
 - MSI Ventus 2x 3060 Ti (Driver 471.11 dans tout les scénarios, et non overclocké dans tout les scénarios) (CS:GO et R6 on été bench avec la mise a l'échelle pleine écran et les paramètres par défauts en dessous, Fortnite a été bench sans mise a l'échelle avec les paramètres par défauts en dessous)

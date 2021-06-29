@@ -29,9 +29,10 @@ Nous avons utilisé des logiciels que vous retrouvez ci-dessous. Ils nous ont pe
 
 <details><summary>Settings et Configuration</summary> 
  <hr>
- <br>
   
 Voici la `configuration` utlisé pendant le benchmark :
+<br> 
+  
  ``` - I5 10600K (non overclocké dans toutes les scénarios)
 - MSI Z490 Tomahawk (Bios Version 7C80v18)
 - Crucial Ballistix 2x8Go 3600Mhz (XMP activé dans tout les scénarios sauf le "Bios❌")

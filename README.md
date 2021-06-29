@@ -27,7 +27,7 @@ Nous avons utilisé des logiciels que vous retrouvez ci-dessous. Ils nous ont pe
 **[7-Zip](https://www.7-zip.org/download.html)**  
 </details>
 
-<details><summary>Settings et Configuration</summary>
+<details><summary>Settings et Configuration</summary> 
   
 Voici la `configuration` utlisé pendant le benchmark :
  ``` - I5 10600K (non overclocké dans toutes les scénarios)

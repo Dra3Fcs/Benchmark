@@ -29,6 +29,7 @@ Nous avons utilisé des logiciels que vous retrouvez ci-dessous. Ils nous ont pe
 
 <details><summary>Settings et Configuration</summary> 
  <hr>
+  
 Voici la `configuration` utlisé pendant le benchmark :
  ``` - I5 10600K (non overclocké dans toutes les scénarios)
 - MSI Z490 Tomahawk (Bios Version 7C80v18)

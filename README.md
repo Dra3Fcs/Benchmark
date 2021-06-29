@@ -29,4 +29,5 @@ Nous avons utilisé des logiciels que vous retrouvez ci-dessous. Ils nous ont pe
 
 <details><summary>Settings et Configuration</summary>
 
+</details>
 <details><summary>Analyse et Résultat</summary>

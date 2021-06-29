@@ -28,6 +28,19 @@ Nous avons utilisé des logiciels que vous retrouvez ci-dessous. Ils nous ont pe
 </details>
 
 <details><summary>Settings et Configuration</summary>
+  
+Voici la `configuration` utlisé pendant le benchmark :
+ ``` - I5 10600K (non overclocké dans toutes les scénarios)
+- MSI Z490 Tomahawk (Bios Version 7C80v18)
+- Crucial Ballistix 2x8Go 3600Mhz (XMP activé dans tout les scénarios sauf le "Bios❌")
+- MSI Ventus 2x 3060 Ti (Driver 471.11 dans tout les scénarios, et non overclocké dans tout les scénarios) (CS:GO et R6 on été bench avec la mise a l'échelle pleine écran et les paramètres par défauts en dessous, Fortnite a été bench sans mise a l'échelle avec les paramètres par défauts en dessous)
+- Kingston A2000 500Go (CD C: Windows dessus, tout les logiciels, et CS GO)
+- Seagate Barracuda 2 To 2020 (Tout les jeux dessus R6, Fortnite sauf CS GO)
+- Seagate Barracuda 2 To 2018 (Rien dessus sauf des fichiers sauvegardés pour ça qu'il n'est pas bench)
+- Fractal Design Meshify C
+- Gigabyte P750W GM
+- 5 Ventilateurs ARTIC
+- ARCTIC Freezer 34 eSports DUO```
 
 </details>
 <details><summary>Analyse et Résultat</summary>

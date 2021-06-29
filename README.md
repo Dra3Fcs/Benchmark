@@ -28,6 +28,7 @@ Nous avons utilisé des logiciels que vous retrouvez ci-dessous. Ils nous ont pe
 </details>
 
 <details><summary>Settings et Configuration</summary> 
+ 
   
 Voici la `configuration` utlisé pendant le benchmark :
  ``` - I5 10600K (non overclocké dans toutes les scénarios)

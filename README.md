@@ -27,4 +27,6 @@ Nous avons utilisé des logiciels que vous retrouvez ci-dessous. Ils nous ont pe
 **[7-Zip](https://www.7-zip.org/download.html)**  
 </details>
 
+<details><summary>Settings et Configuration</summary>
+
 <details><summary>Analyse et Résultat</summary>

@@ -47,6 +47,7 @@ Voici la `configuration` utlisé pendant le benchmark :
 ```
 <hr>
 <br>
+  
  Voici les `paramètres/settings` sur les différents jeux (Fortnite, RS6, CSGO)
  [![Header](https://i.imgur.com/YDYjZON.png  "Header")](https://i.imgur.com/YDYjZON.png)
  [![Header](https://i.imgur.com/ujxAiy9.png  "Header")](https://i.imgur.com/ujxAiy9.png)  
